@@ -94,7 +94,7 @@ public class hw1 {
 	        // "5" 是一個字符串，Java會嘗試將整數5轉換為字符串，然後將兩個字符串進行連接。
 	        // 因此這裡實際上是兩個字符串的連接操作。
 	        System.out.println(5 + "5"); // 輸出：55
-	        System.out.println("master========");
+	        System.out.println("master123========");
 	    }
 	}
 	  
